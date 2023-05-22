@@ -1,0 +1,6 @@
+Név: pistike
+Kor: 22
+Magasság: 197
+Név: janó
+Kor: 44
+Magasság: 176
